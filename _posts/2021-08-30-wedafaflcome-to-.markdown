@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and 
 
-Jekyll also offers powerful support for code snippets:
+Jekyll also oftfers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
