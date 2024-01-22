@@ -23,7 +23,7 @@ github_username:  SydGSA
 linkedin_username: giuseppesalinaro
 # Build settings
 markdown: kramdown
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
